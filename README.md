@@ -2,6 +2,8 @@
 
 Practice files used while following "Rust for JavaScript Developers" course.
 
+Thank you Sid Chatterjee for the wonderful course, found here: https://rustforjs.dev/
+
 ## Getting Started (sorry Windows)
 
 Installing rust:
