@@ -1,6 +1,6 @@
 # Rust for JavaScript Developers 🦀
 
-Files used while following "Rust for JavaScript Developers" course.
+Practice files used while following "Rust for JavaScript Developers" course.
 
 ## Getting Started (sorry Windows)
 
