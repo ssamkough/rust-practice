@@ -1,4 +1,10 @@
 /**
+ * Types can be scalar or compound as the programming language 
+ * linguists would say. There are four primitive scalars in Rust.
+ * 
+ * Rust has four basic scalar types: integers, floating point 
+ * numbers, characters and Boolean values.
+ * 
  * Signed integer types: i8, i16, i32, i64 i128
  * Unsigned integer types: u8, u16, u32, u64, u128
  * Floating point types: f32, f64.
