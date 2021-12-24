@@ -1,4 +1,4 @@
-# Rust for JavaScript Developers 🦀
+# rust-for-js-dev 🦀
 
 Practice files used while following "Rust for JavaScript Developers" course.
 
