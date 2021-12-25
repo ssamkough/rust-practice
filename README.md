@@ -1,10 +1,23 @@
-# rust-for-js-dev 🦀
+# rust-practice 🦀
 
-Practice files used while following "Rust for JavaScript Developers" course.
+Practice repo for learning Rust.
+
+
+## Directories
+
+### /rust-for-js-dev
+
+Files directed towards "Rust for JavaScript Developers" course.
 
 Thank you Sid Chatterjee for the wonderful course, found here: https://rustforjs.dev/
 
-## Getting Started (sorry Windows)
+### /sandbox
+
+Test files and stuffs.
+
+## Commands
+
+This is directed towards machines that are macOS, Linux, or another Unix-like OS (sorry Windows).
 
 Installing rust:
 
